@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/29821908/README.md)
 # EMG Myoelectric Prosthesis
 
 A myoelectric wrist/hand prosthesis controlled by EMG (electromyography) signals, developed as a Master's thesis (PFE) project at USTHB (Université des Sciences et de la Technologie Houari Boumediene), Algiers.
@@ -54,9 +55,4 @@ Written in C/C++ for the ATtiny85 (Digispark board), including manual PWM genera
 
 ## Author
 
-**Senouci Abderraouf Zaki** — M2 Electronics and Embedded Systems, USTHB
-Supervised by Pr. A. Nacer
-
-## License
-
-This project is released under the [MIT License](LICENSE).
+**Senouci Abderraouf Zaki** — M2 Electronics and Embedded Systems, USTHB.
